@@ -52,9 +52,8 @@ and extract in the asked_question only
 			running the server: write "nodemon" to run
 					    listening on port 9000.
 					    connected to db.
-		
-			#Now proceed as the workflow goes through the User Interface.
 
+### Now proceed as the workflow goes through the User Interface.
 
 ### Prerequisites
 
