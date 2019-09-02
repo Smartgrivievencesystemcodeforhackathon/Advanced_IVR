@@ -28,7 +28,7 @@ open the bank_api folder and save the these two files there:
 [Link To File_1](https://drive.google.com/open?id=1se5r-pfxr6jSkqYct_-JngtMIno1NXwW) and 
 [Link To File_2](https://drive.google.com/file/d/1x7KLigultvzg8BuocXCU-TtzY4_T1O7U/view?usp=sharing)
 
-After downloading the above files and extracting the zip your main folder should look like below:
+After downloading the above files and extracting the zip your bank_api folder inside syndicate_hackathon folder should look like below:
 
 ![alt text](https://github.com/Smartgrivievencesystemcodeforhackathon/Advanced_IVR/blob/master/images/Screenshot%20(8).png)
 
