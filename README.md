@@ -11,6 +11,8 @@ Cost reduction as call time of IVR would be less and we would require less numbe
 
 Proper redressal can be done  which would again increase the customer satisfaction and the bank could find time and money to solve more important issues.
 
+![alt text](http://url/to/img.png)
+
 # Note For the external file download
 Please download the following file or access the direct google drive project link(everything will be extracted at once and you will just have to install the libraries for execution) given in the main project submission form available at hackerearth which was submitted by our team for SYNDICATE BANK HACKATHON.
 [Link To File_1](https://drive.google.com/open?id=1se5r-pfxr6jSkqYct_-JngtMIno1NXwW) and [Link To File_2](https://drive.google.com/open?id=1x7KLigultvzg8BuocXCU-TtzY4_T1O7U)
