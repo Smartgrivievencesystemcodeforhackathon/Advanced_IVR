@@ -45,12 +45,15 @@ Please download the following file or access the direct google drive project lin
 		4: installing packages write npm install.
 			running the server: write "nodemon" to run
 					    listening on port 7000.
-					    connected to db.
 		5: Open CMD/Terminal in Root Project named two (for admin).
 		6: installing packages write npm install.
 			running the server: write "nodemon" to run
 					    listening on port 9000.
 					    connected to db.
+		7: Open CMD/Terminal in Root Project named bank_client(for UI access).
+		8: installing packages write npm install.
+			running the server: write "npm start" to run
+					    listening on port 3000.
 
 #### Now proceed as the workflow goes through the User Interface.
 
