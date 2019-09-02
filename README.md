@@ -15,8 +15,20 @@ Proper redressal can be done  which would again increase the customer satisfacti
 
 # Note For the external file download
 Please download the following file or access the direct google drive project link(everything will be extracted at once and you will just have to install the libraries for execution) given in the main project submission form available at hackerearth which was submitted by our team for the HACKATHON.
-[Link To File_1](https://drive.google.com/open?id=1se5r-pfxr6jSkqYct_-JngtMIno1NXwW)
+[Link To File_1](https://drive.google.com/open?id=1se5r-pfxr6jSkqYct_-JngtMIno1NXwW) and 
 [Link To File_2](https://drive.google.com/file/d/1x7KLigultvzg8BuocXCU-TtzY4_T1O7U/view?usp=sharing)
+
+# Note for running the project from github.
+Please download the syndicate_hackathon.zip file from the repo and extract the files within the zip to a common folder(name that common folder as syndicate_hackathon).
+
+After extracting you will see two files in the syndicate_hackathon folder created (file1-bank_api and file2- bank_client)
+
+open the bank_api folder and save the these two files there:
+
+[Link To File_1](https://drive.google.com/open?id=1se5r-pfxr6jSkqYct_-JngtMIno1NXwW) and 
+[Link To File_2](https://drive.google.com/file/d/1x7KLigultvzg8BuocXCU-TtzY4_T1O7U/view?usp=sharing)
+
+After this you are almost ready to run the complete project, just follow the below instructions.
 
 
 ## Getting Started
