@@ -30,7 +30,7 @@ open the bank_api folder and save the these two files there:
 
 After downloading the above files and extracting the zip your main folder should look like below:
 
-![alt text](https://github.com/Smartgrivievencesystemcodeforhackathon/Advanced_IVR/blob/master/images/Screenshot%20(8).png
+![alt text](https://github.com/Smartgrivievencesystemcodeforhackathon/Advanced_IVR/blob/master/images/Screenshot%20(8).png)
 
 After this you are almost ready to run the complete project, just follow the below instructions.
 
