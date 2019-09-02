@@ -11,7 +11,7 @@ Cost reduction as call time of IVR would be less and we would require less numbe
 
 Proper redressal can be done  which would again increase the customer satisfaction and the bank could find time and money to solve more important issues.
 
-![alt text](https://github.com/Smartgrivievencesystemcodeforhackathon/Advanced_IVR/blob/master/images/flowchart.jpg)
+![alt text](https://github.com/Smartgrivievencesystemcodeforhackathon/Advanced_IVR/blob/master/images/SYnHackPPT.jpg)
 
 # Note For the external file download
 Please download the following file or access the direct google drive project link(everything will be extracted at once and you will just have to install the libraries for execution) given in the main project submission form available at hackerearth which was submitted by our team for the HACKATHON.
