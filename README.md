@@ -56,21 +56,21 @@ After this you are almost ready to run the complete project, just follow the bel
 2.)  Starting the Website 
 
 	To run the complete project you need to have nodejs configured on your system with nodemon globally installed.
-		1: Open CMD/Terminal in Root Project named one (for user).
+		1: Open CMD/Terminal in Root Project named as syndicate_hackathon/bank_api/one (for user).
 		2: installing packages write npm install.
 			running the server: write "nodemon" to run
 					    listening on port 8000.
 					    connected to db.
-		3: Open CMD/Terminal in Root Project named one/rec2 (for user audio recording).
+		3: Open CMD/Terminal in Root Project named syndicate_hackathon/bank_api/one/rec2 (for user audio recording backend).
 		4: installing packages write npm install.
 			running the server: write "nodemon" to run
 					    listening on port 7000.
-		5: Open CMD/Terminal in Root Project named two (for admin).
+		5: Open CMD/Terminal in Root Project named syndicate_hackathon/bank_api/two (for admin backend).
 		6: installing packages write npm install.
 			running the server: write "nodemon" to run
 					    listening on port 9000.
 					    connected to db.
-		7: Open CMD/Terminal in Root Project named bank_client(for UI access).
+		7: Open CMD/Terminal in Root Project named syndicate_hackathon/bank_client(for UI access).
 		8: installing packages write npm install.
 			running the server: write "npm start" to run
 					    listening on port 3000.
