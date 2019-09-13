@@ -85,7 +85,7 @@ After this you are almost ready to run the complete project, just follow the bel
 
 ### Preview And Idea
 The Idea and Video is saved in documents and video folder.
-Preview Our vedio on [Youtube Link](https://www.youtube.com/watch?v=s16EKLR2FpU&feature=youtu.be)
+Preview Our vedio on [Youtube Link](https://youtu.be/Bb0gWXXv75c)
 
 ## Authors
 
